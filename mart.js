@@ -7,7 +7,8 @@ let loadImage= (src,callback)=>{
 };
 
 let imagePath=(frameNumber,animation)=>{
-    return "/images/"+animation+"/"+ frameNumber +".png";
+    return "/probase.github.io
+/images/"+animation+"/"+ frameNumber +".png";
 };
 let frames={
     idle:[1,2,3,4,5,6,7,8],
